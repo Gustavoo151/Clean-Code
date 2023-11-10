@@ -22,11 +22,3 @@ Este repositório serve como meu laboratório pessoal para aplicar as práticas 
 ## Como Contribuir
 
 Se você deseja contribuir para este projeto ou sugerir melhorias, por favor, abra uma "issue" ou envie um "pull request". Estou sempre aberto a novas ideias e feedback.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
----
-
-*Nota: Lembre-se de atualizar as seções do README conforme o projeto progride e adicione quaisquer informações adicionais que considerar importantes.*
